@@ -21,3 +21,7 @@ Note that the current preview version does NOT utilize the ChatGPT model, but in
 - [ ] Open to suggestions, feel free to share your ideas!
 
 ## Usage Examples:
+
+<video width="320" height="240" controls>
+  <source src="Videos/ChatGPTIntegrationToVisualStudio.mp4" type="video/mp4">
+</video>
